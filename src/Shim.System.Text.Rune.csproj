@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    <LangVersion>10</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>System.Numerics</RootNamespace>
+    <Copyright>(c) .NET Foundation and Contributors</Copyright>
+    <PackageProjectUrl>https://github.com/udaken/Shim.System.Text.Rune</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/udaken/Shim.System.Text.Rune</RepositoryUrl>
+    <Authors>Kenichi Uda</Authors>
+    <PackageLicenseFile>LICENSE.TXT</PackageLicenseFile>
+    <PackageTags></PackageTags>
+    <Description>This package provides System.Text.Rune to .NET Standard2.0 and .NET Standard2.1.</Description>
+    <EnableNETAnalyzers>True</EnableNETAnalyzers>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Memory" Version="4.5.4" />
+  </ItemGroup>
+
+</Project>
