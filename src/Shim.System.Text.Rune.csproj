@@ -5,7 +5,7 @@
     <LangVersion>10</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <RootNamespace>System.Numerics</RootNamespace>
+    <RootNamespace>System.Text</RootNamespace>
     <Copyright>(c) .NET Foundation and Contributors</Copyright>
     <PackageProjectUrl>https://github.com/udaken/Shim.System.Text.Rune</PackageProjectUrl>
     <RepositoryUrl>https://github.com/udaken/Shim.System.Text.Rune</RepositoryUrl>
